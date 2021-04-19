@@ -18,8 +18,6 @@ Things I like to do in my spare time include
   <li>Gardening</li>
 </ul>
 
-Developing new software, specifically mobile development as well as relational databases.
-
 # Skills
 <ul>
   <li>UI/UX design</li>
@@ -37,7 +35,7 @@ I have
 </ul>
   
 # Find me on the following platforms:
-Linked in: [<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-128.png" width="20" height="20">](https://www.linkedin.com/in/arno-m%C3%B6ller-a96a8920b/).
+LinkedIn: [<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-128.png" width="20" height="20">](https://www.linkedin.com/in/arno-m%C3%B6ller-a96a8920b/).
 
 <!-- Icons -->
 
