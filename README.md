@@ -7,7 +7,7 @@ I am currently a third year BSc Information And Knowledge System student. My mod
 Developing new software, specifically mobile development as well as relational databases.
 
 # Skills
-I know many languages such as Java, C++, C#, PHP, XML, MySQL, XAML, JavaScript and TypeScript.
+I am proficient in languages such as Java, C++, C#, PHP, XML, MySQL, XAML, JavaScript and TypeScript.
 I have experience in developing user interfaces, as well as implementing databases.
 
 # Previous work experience
