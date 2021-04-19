@@ -4,20 +4,40 @@
 I am currently a third year BSc Information And Knowledge System student at the University of Pretoria. My module group is software development, which means that along with computer science, I do informatics as well as multimedia.
 
 # Interests 💻
-Software development:
+## Work
 <ul>
-  <li>Creating</li>
+  <li>Improving on my knowledge and understanding of software development by doing research</li>
+  <li>Exploring new technologies</li>
 </ul>
+
+## Hobbies
+Things I like to do in my spare time include
+<ul>
+  <li>Athletics</li>
+  <li>Golf</li>
+  <li>Gardening</li>
+</ul>
+
 Developing new software, specifically mobile development as well as relational databases.
 
 # Skills
-I am proficient in languages such as Java, C++, C#, PHP, XML, MySQL, XAML, JavaScript and TypeScript.
-I have experience in developing user interfaces, as well as implementing databases.
+<ul>
+  <li>UI/UX design</li>
+  <li>Backend development</li>
+  <li>Collaboration</li>
+  <li>Creative problem solving</li>
+  <li>Adaptivity</li>
+</ul>
 
 # Previous work experience
-I have co-created a Xamarin mobile app for a company as well as developed a windows forms application integrating with Google Maps API.
-
-You can find me on [<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-128.png" width="20" height="20">](https://www.linkedin.com/in/arno-m%C3%B6ller-a96a8920b/).
+I have 
+<ul>
+  <li>Co-designed and developed a Xamarin mobile app, as well as developed a windows forms application with integration with Google Maps Api for an ERP company</li>
+  <li>Created and deployed a personal website for an individual</li>
+</ul>
+  
+# Find me on the following platforms:
+Linked in: [<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-128.png" width="20" height="20">](https://www.linkedin.com/in/arno-m%C3%B6ller-a96a8920b/).
 
 <!-- Icons -->
 
