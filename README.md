@@ -1,9 +1,13 @@
 [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEAoBXhvTgRDQ/profile-displayphoto-shrink_400_400/0/1618435182342?e=1623888000&v=beta&t=aqCt7JaT_1ilkDcxQMXoe3QKOgm97r7agKQFyh2fe9M" width="100" height="100" style="border-radius:50%">](https://github.com/Arno-Moller)
 
 # Current position
-I am currently a third year BSc Information And Knowledge System student. My module group is software development, which means that along with computer science, I do informatics as well as multimedia.
+I am currently a third year BSc Information And Knowledge System student at the University of Pretoria. My module group is software development, which means that along with computer science, I do informatics as well as multimedia.
 
 # Interests 💻
+Software development:
+<ul>
+  <li>Creating</li>
+</ul>
 Developing new software, specifically mobile development as well as relational databases.
 
 # Skills
