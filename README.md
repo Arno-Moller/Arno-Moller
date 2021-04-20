@@ -30,7 +30,7 @@ Things I like to do in my spare time include
 # Previous work experience
 I have 
 <ul>
-  <li>Co-designed and developed a Xamarin mobile app, as well as developed a windows forms application with integration with Google Maps Api for an ERP company</li>
+  <li>Co-designed and developed a Xamarin mobile app, as well as developed a windows forms application integrated with Google Maps Api for an ERP company</li>
   <li>Created and deployed a personal website for an individual</li>
 </ul>
   
