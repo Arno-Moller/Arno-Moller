@@ -3,6 +3,15 @@
 # Current position
 I am currently a third year BSc Information And Knowledge System student at the University of Pretoria. My module group is software development, which means that along with computer science, I do informatics as well as multimedia.
 
+# Skills
+<ul>
+  <li>UI/UX design</li>
+  <li>Backend development</li>
+  <li>Collaboration</li>
+  <li>Creative problem solving</li>
+  <li>Adaptivity</li>
+</ul>
+
 # Interests 💻
 ## Work
 <ul>
@@ -16,15 +25,6 @@ Things I like to do in my spare time include
   <li>Athletics</li>
   <li>Golf</li>
   <li>Gardening</li>
-</ul>
-
-# Skills
-<ul>
-  <li>UI/UX design</li>
-  <li>Backend development</li>
-  <li>Collaboration</li>
-  <li>Creative problem solving</li>
-  <li>Adaptivity</li>
 </ul>
 
 # Previous work experience
