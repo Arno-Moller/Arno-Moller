@@ -1,4 +1,4 @@
-[<img src="https://avatars.githubusercontent.com/u/59819453?v=4" width="100" height="100" style="border-radius:50%">](https://github.com/Arno-Moller)
+[<img src="https://avatars.githubusercontent.com/u/59819453?v=4" width="100" height="100" style="border-radius:50%">](https://arno-moller.github.io/)
 
 # Current position
 I am currently a third year BSc Information And Knowledge System student at the University of Pretoria. My module group is software development, which means that along with computer science, I do informatics as well as multimedia.
