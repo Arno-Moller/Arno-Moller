@@ -1,4 +1,4 @@
-[<img src="https://media-exp1.licdn.com/dms/image/C4E03AQH_BhfrPArrQw/profile-displayphoto-shrink_800_800/0/1618768284550?e=1624492800&v=beta&t=-it9La6OHJT7e91JQsitJsID6frZ49t6ZC2-CCeZcUU" width="100" height="100" style="border-radius:50%">](https://github.com/Arno-Moller)
+[<img src="https://avatars.githubusercontent.com/u/59819453?v=4" width="100" height="100" style="border-radius:50%">](https://github.com/Arno-Moller)
 
 # Current position
 I am currently a third year BSc Information And Knowledge System student at the University of Pretoria. My module group is software development, which means that along with computer science, I do informatics as well as multimedia.
