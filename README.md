@@ -1,7 +1,7 @@
 [<img src="https://avatars.githubusercontent.com/u/59819453?v=4" width="100" height="100" style="border-radius:50%">](https://arno-moller.github.io/)
 
 # Current position
-I am currently a third year BSc Information And Knowledge System student at the University of Pretoria. My module group is software development, which means that along with computer science, I do informatics as well as multimedia.
+I am currently working as a software engineer at Agile Bridge with a background in BSc Information And Knowledge Systems at the University of Pretoria. My module group was software development, which means that along with computer science, I did informatics as well as multimedia.
 
 # Skills
 <ul>
@@ -24,14 +24,17 @@ Things I like to do in my spare time include
 <ul>
   <li>Athletics</li>
   <li>Golf</li>
+  <li>Fishing</li>
+  <li>Mountain Biking</li>
   <li>Gardening</li>
+  <li>Tennis</li>
 </ul>
 
 # Previous work experience
 I have 
 <ul>
   <li>Co-designed and developed a Xamarin mobile app, as well as developed a windows forms application integrated with Google Maps Api for an ERP company</li>
-  <li>Created and deployed a personal website for an individual</li>
+  <li>Created and deployed a tutring website for an individual (https://johansv-extra-classes.netlify.app/)</li>
 </ul>
   
 # Find me on the following platforms:
